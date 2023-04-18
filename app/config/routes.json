@@ -11,6 +11,11 @@
             "page": "index",
             "routeType": "page",
             "layout": "index"
+        },
+        {
+            "path": "/inde1x",
+            "page": "inde1x",
+            "layout": "inde1x"
         }
     ]
 }
